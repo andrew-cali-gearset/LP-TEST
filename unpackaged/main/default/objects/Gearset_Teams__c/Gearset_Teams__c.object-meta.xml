@@ -149,11 +149,11 @@
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Gearset Teams</label>
+    <label>Gearset Team</label>
     <nameField>
         <label>Gearset Teams Name</label>
         <type>Text</type>

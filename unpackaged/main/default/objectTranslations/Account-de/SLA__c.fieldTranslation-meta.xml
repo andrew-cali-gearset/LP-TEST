@@ -7,6 +7,10 @@
             <translation><!-- Bronze --></translation>
         </picklistValues>
         <picklistValues>
+            <masterLabel>Diamond</masterLabel>
+            <translation><!-- Diamond --></translation>
+        </picklistValues>
+        <picklistValues>
             <masterLabel>Gold</masterLabel>
             <translation><!-- Gold --></translation>
         </picklistValues>

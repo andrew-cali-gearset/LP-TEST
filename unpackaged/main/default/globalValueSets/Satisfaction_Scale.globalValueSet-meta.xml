@@ -3,38 +3,38 @@
     <customValue>
         <fullName>😠</fullName>
         <default>false</default>
-        <label>😠</label>
+        <label>Angry - 😠</label>
     </customValue>
     <customValue>
         <fullName>😞</fullName>
         <default>false</default>
-        <label>😞</label>
+        <label>Dissatisfied - 😞</label>
     </customValue>
     <customValue>
         <fullName>😐</fullName>
         <default>false</default>
-        <label>😐</label>
+        <label>Neutral - 😐</label>
     </customValue>
     <customValue>
         <fullName>🙂</fullName>
         <default>false</default>
-        <label>🙂</label>
+        <label>Happy - 🙂</label>
     </customValue>
     <customValue>
         <fullName>😃</fullName>
         <default>false</default>
-        <label>😃</label>
-    </customValue>
-    <customValue>
-        <fullName>🤩</fullName>
-        <default>false</default>
-        <label>🤩</label>
+        <label>Very happy - 😃</label>
     </customValue>
     <customValue>
         <fullName>😍😍😍</fullName>
         <default>false</default>
+        <label>Out of this world - 😍😍😍</label>
+    </customValue>
+    <customValue>
+        <fullName>🤩</fullName>
+        <default>false</default>
         <isActive>false</isActive>
-        <label>😍😍😍</label>
+        <label>Blown away - 🤩</label>
     </customValue>
     <description>Rate your satisfaction with emoji list.</description>
     <masterLabel>Satisfaction Scale</masterLabel>
