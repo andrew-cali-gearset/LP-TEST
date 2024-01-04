@@ -2,7 +2,7 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value>Gearset Teams</value>
+        <value>Gearset Team</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>

@@ -88,4 +88,12 @@
         <name>standard__LightningBolt</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Gearset Service Portal</name>
+        <type>Network</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>DEVHUB_sbwcdtwzlkpbu40hghv3</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
 </AppMenu>

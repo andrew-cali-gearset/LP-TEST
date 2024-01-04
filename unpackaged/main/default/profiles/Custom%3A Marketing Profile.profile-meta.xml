@@ -3215,7 +3215,7 @@
         <recordType>Account.Gearset_renewal</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Account-Account %28Support%29 Layout</layout>
+        <layout>Account-Account %28Marketing%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>AlternativePaymentMethod-Alternative Payment Method Layout</layout>
