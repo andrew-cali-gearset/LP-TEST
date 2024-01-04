@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- This field is used as a test and a test only. For testing purposes --></help>
+        <label><!-- Merge Test --></label>
+        <name>Merge_Test__c</name>
+    </CustomFieldTranslation>
